@@ -1,1 +1,1 @@
-# ekskul-day06-html-template-sonny
+# ekskul-day06-html-template-janzen
